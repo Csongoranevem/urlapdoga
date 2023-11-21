@@ -1,0 +1,44 @@
+body{
+    background-color:rgb(0, 163, 155);
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+.container{
+    background-color: white;
+    border-radius: 5px;
+}
+
+.fejlec{
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+    border-radius: 5px;
+}
+
+
+label[for="mezo"],label[for="hobbies"], label[for="gender"],label[for="file"] {
+    display: block;
+    color: rgb(0, 243, 252) ;
+}
+
+td{
+    padding: 5px;
+    
+}
+
+input[type="email"]{
+    width: 345px;
+}
+
+table{
+    margin:0 auto;
+    width: 450px;
+}
+
+label[for=""]{
+    font-size: 10px;
+}
+
+
+
+
